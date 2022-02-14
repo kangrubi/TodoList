@@ -13,6 +13,7 @@
 		042F20E327BA407E00E3398D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 042F20E127BA407E00E3398D /* Main.storyboard */; };
 		042F20E527BA408000E3398D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 042F20E427BA408000E3398D /* Assets.xcassets */; };
 		042F20E827BA408000E3398D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 042F20E627BA408000E3398D /* LaunchScreen.storyboard */; };
+		04D0DB8F27BA43C900389A05 /* Task.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04D0DB8E27BA43C900389A05 /* Task.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		042F20E427BA408000E3398D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		042F20E727BA408000E3398D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		042F20E927BA408000E3398D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		04D0DB8E27BA43C900389A05 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				042F20DB27BA407E00E3398D /* AppDelegate.swift */,
 				042F20DD27BA407E00E3398D /* SceneDelegate.swift */,
 				042F20DF27BA407E00E3398D /* ViewController.swift */,
+				04D0DB8E27BA43C900389A05 /* Task.swift */,
 				042F20E127BA407E00E3398D /* Main.storyboard */,
 				042F20E427BA408000E3398D /* Assets.xcassets */,
 				042F20E627BA408000E3398D /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04D0DB8F27BA43C900389A05 /* Task.swift in Sources */,
 				042F20E027BA407E00E3398D /* ViewController.swift in Sources */,
 				042F20DC27BA407E00E3398D /* AppDelegate.swift in Sources */,
 				042F20DE27BA407E00E3398D /* SceneDelegate.swift in Sources */,
